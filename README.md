@@ -6,7 +6,6 @@ thdmerge (version 1.2) is a program that interleaves TrueHD streams with AC-3 fr
 Author = Donald Graft (<donald.graft@cantab.net>).
 
 USAGE:
-
 thdmerge input.thd input.ac3 output.thd+ac3 [-t]
 -t: truncate longer stream to length of shorter stream
 NOTICE:
